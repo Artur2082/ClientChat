@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ec5a63-3cf8-4b84-a3bd-4b4471eb7812" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/src/main/java/Org/example/Client/ClientChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/main/java/Org/example/Client/ClientChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/src/main/java/Org/example/Client/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/main/java/Org/example/Client/ServerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Connections" beforeDir="false" afterPath="$PROJECT_DIR$/Connections" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/Connections" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Connections" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/files/FileFromClient" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/main/java/Org/example/Server/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/main/java/Org/example/Server/ClientThread.java" afterDir="false" />
+    <list default="true" id="c8ec5a63-3cf8-4b84-a3bd-4b4471eb7812" name="Changes" comment="Commit">
       <change beforePath="$PROJECT_DIR$/Server/src/main/java/Org/example/Server/FileTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/main/java/Org/example/Server/FileTransfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/main/java/Org/example/Server/ServerChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/main/java/Org/example/Server/ServerChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/test/java/ServerChatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/test/java/ServerChatTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/Артур/IdeaProjects/Java_Pro/Java_Pro_26.11.2022",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Артур/IdeaProjects/Java_Pro/Java_Pro_26.11.2022&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -144,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679900736590</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1680869703475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680869703475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

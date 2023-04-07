@@ -13,7 +13,7 @@ public class FileTransfer {
         socket = client;
         bufferSize = 0;
     }
-    public boolean receive (File uploadedFile) throws IOException {
+    public void receive (File uploadedFile) throws IOException {
         try (FileOutputStream fos = FileUtils.openOutputStream(uploadedFile)) {
             InputStream is = socket.getInputStream();
             BufferedOutputStream bos = new BufferedOutputStream(fos);
@@ -25,6 +25,5 @@ public class FileTransfer {
         } finally {
             System.out.println("Uploaded");
         }
-        return true;
     }
 }
